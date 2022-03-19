@@ -12,7 +12,7 @@ Python Deep Learning based Face Detection, Recognition, Emotion , Gender and Age
 <li><p><b>Numpy</b></p></li>
 <li><p><b>Tensorflow</b></p></li>
 <li><p><b>Keras</b></p></li>
-<li><p><b>face recognition</b></p></li>
-<li><p><b>cmake</b></p></li>
-<li><p><b>dlib</b></p></li>
+<li><p><b>Face recognition</b></p></li>
+<li><p><b>Cmake</b></p></li>
+<li><p><b>Dlib</b></p></li>
 </ul>
